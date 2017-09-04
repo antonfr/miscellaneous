@@ -1,2 +1,2 @@
 # miscellaneous
-Different small projects of machine learning and econometrics
+Different small projects of machine learning, deep learning and econometrics
